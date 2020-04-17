@@ -1,1 +1,3 @@
-# Android-SampleAppDemo
+
+# Android-SimpleAppDemo
+A simple Android App(xxx)
